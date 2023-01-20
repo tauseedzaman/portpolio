@@ -2,6 +2,7 @@
     margin: -100px auto 0 auto;
 }
 
+
 /* --- LANDING PAGE --- */
 
 #home {
@@ -132,6 +133,29 @@ h3 a:hover {
 
 .art-me img {
     height: 100%;
+    /* border-radius: 60%; */
+    transition: transform 0.2s;
+    /* animation: slide-in 1s forwards; */
+    position: relative;
+    border: solid 2px #000;
+    border-radius: 50%;
+    animation: roll 5s linear infinite;
+}
+
+.art-me img:hover {
+    transform: scale(1.2);
+}
+
+@keyframes roll {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(30deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
 }
 
 @media only screen and (min-width: 768px) {
