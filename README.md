@@ -1,4 +1,4 @@
-# [anniew.xyz](https://anniew.xyz/) - v2.5
+# [anniew.xyz](https://portfolio.tauseedzaman.com/) - v2.5
 
 This is the source code for my personal website - a developer and photographer portfolio.
 
@@ -58,7 +58,7 @@ _Art credits to my friend [wynn.draws](https://www.instagram.com/wynn.draws/)._
 
 <img alt="Me Icon" src="./img/me-icon.png" width="250px">
 <img alt="Me Icon Smiling" src="./img/me-icon-smiling.png" width="250px">
-<img alt="Me Icon Gif" src="./img/me-icon.gif" width="250px">
+<img alt="Me Icon Gif" src="https://portfolio.tauseedzaman.com/img/me-icon.jpg" width="250px">
 
 ---
 
@@ -88,7 +88,7 @@ I made a mix of low and high fidelity wireframes for the pages of my website. Th
 
 ## Creator / Maintainer
 
-Annie Wu ([anniedotexe](https://github.com/anniedotexe))
+Annie Wu ([anniedotexe](https://github.com/tauseedzaman))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
